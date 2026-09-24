@@ -67,6 +67,10 @@ fw2 = (abs(fw)).^2;
 subplot(3,2,5);
 plot(fw2);
 
+OUTPUT WAVEFORM:
+<img width="1541" height="882" alt="image" src="https://github.com/user-attachments/assets/0e1d656c-e2b9-4a35-ac0a-711ed49262c8" />
+
+
 
 CALCULATION:
 
